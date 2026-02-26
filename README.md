@@ -7,7 +7,7 @@ Welcome to my project portfolio! This repository highlights **5 key projects** I
 ## Project 1: **Aquavia**
 
 **Description**
-A short summary of what this project does and the problem it solves.
+A Property booking site alike airBNB.
 
 **Tech Stack**
 
