@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Welcome to my project portfolio! This repository highlights **5 key projects** I’ve worked on.
+Welcome to my project portfolio! This repository highlights **5 key projects** I’ve worked on as a web developer.
 
 ---
 
