@@ -58,7 +58,7 @@ A web application to maintain bookings, multi-user authentications, content and 
 
 ---
 
-## 📌 Project 3: **API for ERP **
+## 📌 Project 3: **API for ERP**
 
 **Description**
 Positron School API provides a complete backend for school management, including secure student/teacher login, attendance tracking, exam and marks management, online fee & payment handling, study material sharing, and student self‑service features like fee details, due dates, and admit cards. 
